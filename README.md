@@ -1,2 +1,2 @@
-# pemrograman-visual
-berisi deskripsi singkat tentang program yang ada didalamnya
+# pemrograman-visual Aplikasidatamahasiswa
+deskripsi singkat tentang apikasi serta fitur yang ada di dalamnya 
